@@ -53466,7 +53466,7 @@ case 5:a6.length===h||(0,A.V)(a6),++c
 s=4
 break
 case 6:B.b.a4(a6)
-n=A.b2j("POST",A.n6("http://127.0.0.1:8000/images/",0,null))
+n=A.b2j("POST",A.n6("http://34.76.234.245/images/",0,null))
 B.b.T(n.y,i)
 q=9
 s=12
